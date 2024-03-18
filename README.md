@@ -10,38 +10,26 @@ Descrição... API - Back-End
 - [x] `npm i cookie-parser express-session jsonwebtoken`
 - [x] `npm i nodemailer`
 
-## 2. Adicionar ao Script no Package.JSON:
-- [x] Adicione ao package.json, na parte de “script” o: "start": "nodemon ./index.js localhost 3000"
-```js
-"scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "start": "nodemon ./index.js localhost 3000"
-},
-```
-
-
 ## 2. Video base
-
-- [x] {{URL}}/
-- [x] https://todo-xfvj.onrender.com/
-
-## 7. Endpoints
-### 7.1 Para Verificar se a API Está Funcionando
+- [x] https://www.youtube.com/watch?v=0i86B4mU-vw
+      
+## 3. Endpoints
+### 3.1 Para Verificar se a API Está Funcionando
 - [x] {{URL}}/
 - [x] http://localhost:3000/
 
-### 7.2 Para verificar os usuarios cadastrados e para adicionar um novo cadastro
+### 3.2 Para verificar os usuarios cadastrados e para adicionar um novo cadastro
 - [x] {{URL}}/
 - [x] http://localhost:3000/signup/
 
-### 7.3 Para logar os usuarios 
+### 3.3 Para logar os usuarios 
 - [x] {{URL}}/
 - [x] http://localhost:3000/login/
 
-### 7.4 Para deslogar os usuarios 
+### 3.4 Para deslogar os usuarios 
 - [x] {{URL}}/
 - [x] http://localhost:3000/logout/
 
-### 7.5 Para redefinir senha 
+### 3.5 Para redefinir senha 
 - [x] {{URL}}/
 - [x] http://localhost:3000/reset-password/
