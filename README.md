@@ -44,4 +44,4 @@ Descrição... API - Back-End
 
 ### 7.5 Para redefinir senha 
 - [x] {{URL}}/
-- [x] http://localhost:3000//
+- [x] http://localhost:3000/reset-password/
