@@ -34,12 +34,14 @@ Descrição... API - Back-End
 - [x] {{URL}}/
 - [x] http://localhost:3000/signup/
 
-### 7.2 Para logar os usuarios 
+### 7.3 Para logar os usuarios 
 - [x] {{URL}}/
 - [x] http://localhost:3000/login/
 
-### 7.2 Para deslogar os usuarios 
+### 7.4 Para deslogar os usuarios 
 - [x] {{URL}}/
 - [x] http://localhost:3000/logout/
 
-
+### 7.5 Para redefinir senha 
+- [x] {{URL}}/
+- [x] http://localhost:3000//
