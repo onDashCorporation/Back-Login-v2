@@ -19,17 +19,17 @@ Descrição... API - Back-End
 - [x] http://localhost:3000/
 
 ### 3.2 Para verificar os usuarios cadastrados e para adicionar um novo cadastro
-- [x] {{URL}}/
+- [x] {{URL}}/signup
 - [x] http://localhost:3000/signup/
 
 ### 3.3 Para logar os usuarios 
-- [x] {{URL}}/
+- [x] {{URL}}/login
 - [x] http://localhost:3000/login/
 
 ### 3.4 Para deslogar os usuarios 
-- [x] {{URL}}/
+- [x] {{URL}}/logout
 - [x] http://localhost:3000/logout/
 
 ### 3.5 Para redefinir senha 
-- [x] {{URL}}/
+- [x] {{URL}}/reset-password
 - [x] http://localhost:3000/reset-password/
