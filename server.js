@@ -55,7 +55,7 @@ app.use('/login', loginRotes)
 const logoutRotes = require('./routes/logout')
 app.use('/logout', logoutRotes)
 
-const resetPasswordRoutes = require('./routes/resetPassword'); // Importe o novo endpoint de redefinição de senha
+const resetPasswordRoutes = require('./routes/resetPassword'); 
 app.use('/reset-password', resetPasswordRoutes);
 
 const port = process.env.PORT || 8081
